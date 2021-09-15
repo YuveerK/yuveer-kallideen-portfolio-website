@@ -2,11 +2,13 @@ import React from 'react'
 import styled from 'styled-components'
 import Title from './page components/Title';
 import covid from "../img/covid-project.PNG"
+import microsoft from "../img/microsoft-clone.PNG"
+import redapp from "../img/redapp.PNG"
 
 function Projects() {
     return (
         <ProjectsContainer>
-            <Title title="My Projects" />
+            <Title title="My Projects" id="projects" />
 
 
             <div className="projects-card-container">
@@ -33,8 +35,56 @@ function Projects() {
                     <div className="project-description">
                         <p>A tracker which allows you to find COVID-19 and Vaccine statistics for any country in the world.</p>
                     </div>
+                </div>
 
+                <div className="project-card">
+                    <div className="project-image">
+                        <img src={microsoft} alt="" />
 
+                        <div className="project-card-hover">
+                            <a href="https://github.com/YuveerK/covid-19-tracker" target="_blank">
+                                <i class="fab fa-github"></i>
+                            </a>
+
+                            <a href="https://covid-19-tracker-za.netlify.app/" target="_blank">
+                                <i class="fas fa-globe-africa"></i>
+                            </a>
+                        </div>
+
+                    </div>
+
+                    <div className="project-title">
+                        <h3>COVID-19 Tracker</h3>
+                    </div>
+
+                    <div className="project-description">
+                        <p>A tracker which allows you to find COVID-19 and Vaccine statistics for any country in the world.</p>
+                    </div>
+                </div>
+
+                <div className="project-card">
+                    <div className="project-image">
+                        <img src={redapp} alt="" />
+
+                        <div className="project-card-hover">
+                            <a href="https://github.com/YuveerK/covid-19-tracker" target="_blank">
+                                <i class="fab fa-github"></i>
+                            </a>
+
+                            <a href="https://covid-19-tracker-za.netlify.app/" target="_blank">
+                                <i class="fas fa-globe-africa"></i>
+                            </a>
+                        </div>
+
+                    </div>
+
+                    <div className="project-title">
+                        <h3>COVID-19 Tracker</h3>
+                    </div>
+
+                    <div className="project-description">
+                        <p>A tracker which allows you to find COVID-19 and Vaccine statistics for any country in the world.</p>
+                    </div>
                 </div>
             </div>
         </ProjectsContainer>
@@ -62,7 +112,8 @@ const ProjectsContainer = styled.div`
             align-items: center;
             flex-direction: column;
             width: 400px;
-            height: fit-content;
+            height: 450px;
+            margin: 15px;
             background-color: #07002e;
             padding: 20px;
             

@@ -1,9 +1,9 @@
 import React from 'react'
 import styled from 'styled-components'
-function Title({ title }) {
+function Title({ title, id}) {
     return (
         <TitleContainer>
-            <div className="title-content-container">
+            <div className="title-content-container" id={id}>
                 <h1>{title}</h1>
             </div>
         </TitleContainer>

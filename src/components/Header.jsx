@@ -16,16 +16,16 @@ function Header() {
       <div className="center">
         <ul>
           <li>
-            <a href="#">about</a>
+            <a href="#about">about</a>
           </li>
           <li>
-            <a href="#">featured</a>
+            <a href="#services">services</a>
           </li>
           <li>
-            <a href="#">portfolio</a>
+            <a href="#resume">resume</a>
           </li>
           <li>
-            <a href="#">contact</a>
+            <a href="#projects">projects</a>
           </li>
         </ul>
       </div>
@@ -64,23 +64,17 @@ function Header() {
             <a href="#home">
               <li>Home</li>
             </a>
-            <a href="#home">
+            <a href="#about">
               <li>About Me</li>
             </a>
-            <a href="#home">
+            <a href="#services">
               <li>My Services</li>
             </a>
-            <a href="#home">
+            <a href="#resume">
               <li>Resume</li>
             </a>
-            <a href="#home">
+            <a href="#projects">
               <li>My Projects</li>
-            </a>
-            <a href="#home">
-              <li>Home</li>
-            </a>
-            <a href="#home">
-              <li>Home</li>
             </a>
           </ul>
         </div>

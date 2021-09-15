@@ -5,7 +5,7 @@ import Title from './page components/Title';
 function Services() {
     return (
         <ServicesContainer>
-            <Title title="Services" />
+            <Title title="Services" id="services" />
 
             <div className="services-card-container">
                 <Card

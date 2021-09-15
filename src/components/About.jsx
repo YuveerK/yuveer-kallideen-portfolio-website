@@ -7,7 +7,7 @@ import Title from './page components/Title';
 function About() {
     return (
         <AboutContainer>
-            <Title title="About Me" />
+            <Title title="About Me" id="about" />
 
             <div className="content-container">
                 <div className="left-content">
@@ -80,12 +80,13 @@ const AboutContainer = styled.div`
             width: 60%;
             
             @media (max-width: 1180px) {
-                width: 80%;
+                width: 100%;
                 margin-left: 0;
             }
             span {
                 font-size: 4rem;
                 color: #007bff;
+                text-align: center;
 
                 @media (max-width: 1180px) {
                     display: flex;
@@ -102,7 +103,7 @@ const AboutContainer = styled.div`
                 margin-top: 20px;
                 margin-bottom: 15px;      
                 @media (max-width: 1180px) {
-                    width: auto;
+                    width: 100%;
                 }          
             }
 

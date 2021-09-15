@@ -5,7 +5,7 @@ import Title from './page components/Title';
 function Resume() {
     return (
         <ResumeContainer>
-            <Title title="Resume" />
+            <Title title="Resume" id="resume" />
 
             <div className="subtitle-container">
                 <i class="fas fa-graduation-cap"></i>
