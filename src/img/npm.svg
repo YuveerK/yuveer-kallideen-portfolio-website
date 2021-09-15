@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>File:Npm-logo.svg - Wikimedia Commons</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!0,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"24f3671d-7387-49be-a005-bbb0c7158aca","wgCSPNonce":!1,"wgCanonicalNamespace":"File","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":6,"wgPageName":"File:Npm-logo.svg","wgTitle":"Npm-logo.svg","wgCurRevisionId":562915329,"wgRevisionId":562915329,"wgArticleId":35142030,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Valid SVG","CC-BY-SA-4.0","Self-published work","Logos associated with computing","Node Package Manager","8-bit digital art","Red and white text logos","Three letter combinations including N","Three letter combinations including P","Three letter combinations including M",
+"White on red logos"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"File:Npm-logo.svg","wgRelevantArticleId":35142030,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRestrictionUpload":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"commons","wbCopyright":{"version":"wikibase-1","messageHtml":
+"By clicking \"publish\", you agree to the \u003Ca href=\"/wiki/Commons:Copyrights\" class=\"mw-redirect\" title=\"Commons:Copyrights\"\u003Eterms of use\u003C/a\u003E, and you irrevocably agree to release your contribution under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/publicdomain/zero/1.0/\"\u003ECreative Commons CC0 License\u003C/a\u003E."},"wbBadgeItems":[],"wbMultiLingualStringLimit":250,"wbTaintedReferencesEnabled":!1,"wbEntityId":"M35142030","wgEditSubmitButtonLabelPublish":!0,"wbUserSpecifiedLanguages":["en"],"wgCentralAuthMobileDomain":!1,"wgULSPosition":"personal","wgULSisCompactLinksEnabled":!0,"wbmiDefaultProperties":["P180"],"wbmiPropertyTitles":{"P180":"Items portrayed in this file"},"wbmiPropertyTypes":{"P180":"wikibase-item","P571":"time","P6216":"wikibase-item","P275":"wikibase-item","P170":"wikibase-item","P2699":"url","P2093":"string","P4174":"external-id"},"wbmiHelpUrls":{"P180":
+"https://commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Depicts"},"wbmiExternalEntitySearchBaseUri":"https://www.wikidata.org/w/api.php","wbmiRepoApiUrl":"/w/api.php","wbmiSupportedDataTypes":["wikibase-item","string","quantity","time","monolingualtext","external-id","globe-coordinate","url"],"wbCurrentRevision":562915329,"wbEntity":{"type":"mediainfo","id":"M35142030","labels":{"en":{"language":"en","value":"Node Package Manager"}},"descriptions":[],"statements":{"P571":[{"mainsnak":{"snaktype":"value","property":"P571","hash":"566b769a9c34835c3c847c35a3e9b420e3084693","datavalue":{"value":{"time":"+2014-09-04T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http://www.wikidata.org/entity/Q1985727"},"type":"time"}},"type":"statement","id":"M35142030$963236FB-CCD0-40A3-8A99-24C230C38FF7","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"5570347fdc76d2a80732f51ea10ee4b144a084e0","datavalue":{"value":{"entity-type":
+"item","numeric-id":50423863,"id":"Q50423863"},"type":"wikibase-entityid"}},"type":"statement","id":"M35142030$E8E7D9F8-E994-4D45-A8B0-2A99B4D52511","rank":"normal"}],"P275":[{"mainsnak":{"snaktype":"value","property":"P275","hash":"ec6e754c5042e13b53376139e505ebd6708745a4","datavalue":{"value":{"entity-type":"item","numeric-id":18199165,"id":"Q18199165"},"type":"wikibase-entityid"}},"type":"statement","id":"M35142030$4230D453-6C0C-4E18-9B16-9698351F973F","rank":"normal"}],"P170":[{"mainsnak":{"snaktype":"somevalue","property":"P170","hash":"d3550e860f988c6675fff913440993f58f5c40c5"},"type":"statement","qualifiers":{"P2699":[{"snaktype":"value","property":"P2699","hash":"da3428e006f9f65196b5412643d663296ba7e88d","datavalue":{"value":"https://commons.wikimedia.org/wiki/user:Boboss74","type":"string"}}],"P2093":[{"snaktype":"value","property":"P2093","hash":"3124bd35af9ee05f811ad7de1418a04ec19fd460","datavalue":{"value":"Boboss74","type":"string"}}],"P4174":[{"snaktype":"value",
+"property":"P4174","hash":"a64901a09019dec20c9a5f67670cc7f7d325b58e","datavalue":{"value":"Boboss74","type":"string"}}]},"qualifiers-order":["P2699","P2093","P4174"],"id":"M35142030$D2D86F8F-94D3-4ADC-9527-66240D74BFFC","rank":"normal"}],"P180":[{"mainsnak":{"snaktype":"value","property":"P180","hash":"814de5279f03a261e38a0566d0b6e0d1eca38b5a","datavalue":{"value":{"entity-type":"item","numeric-id":7067518,"id":"Q7067518"},"type":"wikibase-entityid"}},"type":"statement","id":"M35142030$9eca9176-576f-4b69-b045-a8824a147850","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P180","hash":"1def10cb40f8030710ea30708c464d74e11f77d9","datavalue":{"value":{"entity-type":"item","numeric-id":1886349,"id":"Q1886349"},"type":"wikibase-entityid"}},"type":"statement","id":"M35142030$8fd82421-584d-46d3-9ec8-19897303d681","rank":"normal"}]}},"wbmiMinCaptionLength":5,"wbmiMaxCaptionLength":250,"wbmiParsedMessageAnonEditWarning":
+"\u003Cp\u003EYou are not logged in and your \u003Ca href=\"https://en.wikipedia.org/wiki/IP_address\" class=\"extiw\" title=\"w:IP address\"\u003EIP address\u003C/a\u003E will be publicly visible if you make any edits. \u003Ca href=\"/wiki/Special:UserLogin\" title=\"Special:UserLogin\"\u003ELogging in\u003C/a\u003E or \u003Ca href=\"/wiki/Special:CreateAccount\" title=\"Special:CreateAccount\"\u003Ecreating an account\u003C/a\u003E will conceal your IP address and provide you with many other \u003Ca href=\"https://en.wikipedia.org/wiki/Wikipedia:Why_create_an_account%3F\" class=\"extiw\" title=\"w:Wikipedia:Why create an account?\"\u003Ebenefits\u003C/a\u003E. Please do not save test edits. If you want to experiment, please use the \u003Ca href=\"/wiki/Commons:Sandbox\" title=\"Commons:Sandbox\"\u003ESandbox\u003C/a\u003E.\n\u003C/p\u003E","wbmiProtectionMsg":null};RLSTATE={"ext.gadget.Long-Image-Names-in-Categories":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready"
+,"noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","wikibase.common":"ready","jquery.wikibase.toolbar.styles":"ready","filepage":"ready","mediawiki.action.view.filepage":"ready","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.pt":"ready","wikibase.mediainfo.filepage.styles":"ready","wikibase.mediainfo.statements.styles":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["wikibase.entityPage.entityLoaded","wikibase.ui.entityViewInit","mediawiki.action.view.metadata","site","mediawiki.page.ready","skins.vector.legacy.js","ext.gadget.Slideshow","ext.gadget.ZoomViewer","ext.gadget.CollapsibleTemplates","ext.gadget.fastcci","ext.gadget.Stockphoto","ext.gadget.WatchlistNotice","ext.gadget.AjaxQuickDelete","ext.gadget.WikiMiniAtlas","ext.gadget.LanguageSelect","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init"
+,"ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.wikimediaEvents.wikibase","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","wikibase.mediainfo.filePageDisplay","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.uls.pt%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cfilepage%7Cjquery.wikibase.toolbar.styles%7Cmediawiki.action.view.filepage%7Cskins.vector.styles.legacy%7Cwikibase.common%7Cwikibase.mediainfo.filepage.styles%7Cwikibase.mediainfo.statements.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.Long-Image-Names-in-Categories&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.37.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png"/>
+<meta property="og:title" content="File:Npm-logo.svg - Wikimedia Commons"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" href="https://commons.wikimedia.org/wiki/Special:EntityData/M35142030.json" type="application/json"/>
+<link rel="alternate" href="https://commons.wikimedia.org/wiki/Special:EntityData/M35142030.php" type="application/vnd.php.serialized"/>
+<link rel="alternate" href="https://commons.wikimedia.org/wiki/Special:EntityData/M35142030.n3" type="text/n3"/>
+<link rel="alternate" href="https://commons.wikimedia.org/wiki/Special:EntityData/M35142030.ttl" type="text/turtle"/>
+<link rel="alternate" href="https://commons.wikimedia.org/wiki/Special:EntityData/M35142030.nt" type="application/n-triples"/>
+<link rel="alternate" href="https://commons.wikimedia.org/wiki/Special:EntityData/M35142030.rdf" type="application/rdf+xml"/>
+<link rel="alternate" href="https://commons.wikimedia.org/wiki/Special:EntityData/M35142030.jsonld" type="application/ld+json"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//commons.m.wikimedia.org/wiki/File:Npm-logo.svg"/>
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=File:Npm-logo.svg&amp;action=edit"/>
+<link rel="edit" title="Edit" href="/w/index.php?title=File:Npm-logo.svg&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/commons.png"/>
+<link rel="shortcut icon" href="/static/favicon/commons.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikimedia Commons"/>
+<link rel="EditURI" type="application/rsd+xml" href="//commons.wikimedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://commons.wikimedia.org/wiki/File:Npm-logo.svg"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-6 ns-subject mw-editable page-File_Npm-logo_svg rootpage-File_Npm-logo_svg skin-vector action-view skin-vector-legacy wb-entitypage wb-mediainfopage wb-mediainfopage-M35142030"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" >File:Npm-logo.svg</h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">From Wikimedia Commons, the free media repository</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" class="mw-body-content"><ul id="filetoc"><li><a href="#file">File</a></li>
+<li><a href="#filehistory">File history</a></li>
+<li><a href="#filelinks">File usage on Commons</a></li>
+<li><a href="#globalusage">File usage on other wikis</a></li>
+<li><a href="#metadata">Metadata</a></li></ul><div class="fullImageLink" id="file"><a href="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg"><img alt="File:Npm-logo.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png" decoding="async" width="540" height="210" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/810px-Npm-logo.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1080px-Npm-logo.svg.png 2x" data-file-width="540" data-file-height="210" /></a><div class="mw-filepage-resolutioninfo">Size of this PNG preview of this SVG file: <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png" class="mw-thumbnail-link">540 × 210 pixels</a>. <span class="mw-filepage-other-resolutions">Other resolutions: <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/320px-Npm-logo.svg.png" class="mw-thumbnail-link">320 × 124 pixels</a> | <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/640px-Npm-logo.svg.png" class="mw-thumbnail-link">640 × 249 pixels</a> | <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/800px-Npm-logo.svg.png" class="mw-thumbnail-link">800 × 311 pixels</a> | <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1024px-Npm-logo.svg.png" class="mw-thumbnail-link">1,024 × 398 pixels</a> | <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1280px-Npm-logo.svg.png" class="mw-thumbnail-link">1,280 × 498 pixels</a> | <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/2560px-Npm-logo.svg.png" class="mw-thumbnail-link">2,560 × 996 pixels</a>.</span></div></div>
+<div class="fullMedia"><p><a href="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" class="internal" title="Npm-logo.svg">Original file</a> &#8206;<span class="fileInfo">(SVG file, nominally 540 × 210 pixels, file size: 631 bytes)</span>
+</p></div><div class='wbmi-tabs-container oo-ui-layout oo-ui-panelLayout'><div id='ooui-php-1' class='wbmi-tabs oo-ui-layout oo-ui-menuLayout oo-ui-menuLayout-static oo-ui-menuLayout-top oo-ui-menuLayout-showMenu oo-ui-indexLayout' data-ooui='{"_":"OO.ui.IndexLayout","classes":["wbmi-tabs"],"expanded":false,"menuPanel":{"tag":"ooui-php-2"},"contentPanel":{"tag":"ooui-php-3"},"autoFocus":false,"tabPanels":{"wikiTextPlusCaptions":{"tag":"ooui-php-4"},"statements":{"tag":"ooui-php-5"}},"tabSelectWidget":{"tag":"ooui-php-6"}}'><div aria-hidden='false' class='oo-ui-menuLayout-menu'><div id='ooui-php-2' class='oo-ui-layout oo-ui-panelLayout oo-ui-indexLayout-tabPanel' data-ooui='{"_":"OO.ui.PanelLayout","preserveContent":false,"expanded":false}'><div role='tablist' aria-disabled='false' tabindex='0' id='ooui-php-6' class='oo-ui-selectWidget oo-ui-selectWidget-unpressed oo-ui-widget oo-ui-widget-enabled oo-ui-tabSelectWidget oo-ui-tabSelectWidget-frameless' data-ooui='{"_":"OO.ui.TabSelectWidget","framed":false,"items":[{"tag":"ooui-php-7"},{"tag":"ooui-php-8"}]}'><div aria-disabled='false' aria-selected='true' role='tab' id='ooui-php-7' class='oo-ui-widget oo-ui-widget-enabled oo-ui-optionWidget oo-ui-tabOptionWidget oo-ui-labelElement oo-ui-optionWidget-selected' data-ooui='{"_":"OO.ui.TabOptionWidget","selected":true,"label":"File information","data":"wikiTextPlusCaptions"}'><span class='oo-ui-labelElement-label'>File information</span></div><div aria-disabled='false' aria-selected='false' role='tab' id='ooui-php-8' class='oo-ui-widget oo-ui-widget-enabled oo-ui-optionWidget oo-ui-tabOptionWidget oo-ui-labelElement' data-ooui='{"_":"OO.ui.TabOptionWidget","label":"Structured data","data":"statements"}'><span class='oo-ui-labelElement-label'>Structured data</span></div></div></div></div><div class='oo-ui-menuLayout-content'><div id='ooui-php-3' class='oo-ui-layout oo-ui-panelLayout oo-ui-stackLayout oo-ui-indexLayout-stackLayout' data-ooui='{"_":"OO.ui.StackLayout","preserveContent":false,"expanded":false,"items":[{"tag":"ooui-php-4"},{"tag":"ooui-php-5"}]}'><div role='tabpanel' id='ooui-php-4' class='wbmi-tab oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-scrollable oo-ui-tabPanelLayout' data-ooui='{"_":"OO.ui.TabPanelLayout","name":"wikiTextPlusCaptions","label":"File information","scrollable":true,"expanded":false,"classes":["wbmi-tab"]}'><div class='wbmi-entityview-captionsPanel oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed'><h3 class='wbmi-entityview-captions-header'>Captions</h3><div class='wbmi-entityview-caption oo-ui-layout oo-ui-horizontalLayout'><label aria-disabled='false' class='wbmi-language-label oo-ui-widget oo-ui-widget-enabled oo-ui-labelElement-label oo-ui-labelElement oo-ui-labelWidget'>English</label><div lang='en' dir='ltr' class='wbmi-caption-value'>Node Package Manager</div></div></div><h2 class="wbmi-captions-header">Captions</h2><div id="mw-imagepage-content" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><h2><span class="mw-headline" id="Summary">Summary</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=File:Npm-logo.svg&amp;action=edit&amp;section=1" title="Edit section: Summary">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hproduct commons-file-information-table">
+<table class="fileinfotpl-type-information toccolours vevent mw-content-ltr" style="width: 100%; direction: ltr;" cellpadding="4">
+
+<tbody><tr style="vertical-align: top">
+<td id="fileinfotpl_desc" class="fileinfo-paramfield" lang="en">Description<span class="summary fn" style="display:none">Npm-logo.svg</span></td>
+<td class="description">
+<div class="description mw-content-ltr en" dir="ltr" lang="en"><span class="language en" title="English"><b>English&#58; </b></span> Vector logo of npm</div></td>
+</tr>
+
+<tr style="vertical-align: top">
+<td id="fileinfotpl_date" class="fileinfo-paramfield" lang="en">Date</td>
+<td lang="en">
+<span style="white-space:nowrap"><time class="dtstart" datetime="2014-09-04 18:17:38">4 September 2014, 18:17:38</time></span></td>
+</tr>
+
+<tr style="vertical-align: top">
+<td id="fileinfotpl_src" class="fileinfo-paramfield" lang="en">Source</td>
+<td>
+derivative work</td>
+</tr>
+
+<tr style="vertical-align: top">
+<td id="fileinfotpl_aut" class="fileinfo-paramfield" lang="en">Author</td>
+<td>
+<a href="/w/index.php?title=User:Boboss74&amp;action=edit&amp;redlink=1" class="new" title="User:Boboss74 (page does not exist)">Boboss74</a></td>
+</tr>
+
+
+</tbody></table>
+</div>
+<div lang="en" class="mw-content-ltr plainlinks">
+<table cellspacing="0" style="color:#000;background:#EFE;border:1px solid #55B05A;margin:.1em;width:;">
+<tbody><tr>
+<td style="height:29px;line-height:2.1em;padding:0;vertical-align:middle"><a href="//validator.w3.org/" rel="nofollow"><img alt="W3C" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Valid_SVG_1.1_%28green%29.svg/88px-Valid_SVG_1.1_%28green%29.svg.png" decoding="async" width="88" height="30" style="vertical-align: top" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Valid_SVG_1.1_%28green%29.svg/132px-Valid_SVG_1.1_%28green%29.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Valid_SVG_1.1_%28green%29.svg/176px-Valid_SVG_1.1_%28green%29.svg.png 2x" data-file-width="91" data-file-height="31" /></a><span style="visibility:hidden; color:transparent;">i</span>The source code of this  <a href="/wiki/Help:SVG" title="Help:SVG">SVG</a> is <span class="plainlinks" style="background:transparent"><a rel="nofollow" class="external text" href="//validator.w3.org/check?uri=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FSpecial%3AFilepath%2FNpm-logo.svg&amp;doctype=Inline&amp;ss=1">valid</a></span>.
+</td></tr></tbody></table></div>
+<h2><span class="mw-headline" id="Licensing">Licensing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=File:Npm-logo.svg&amp;action=edit&amp;section=2" title="Edit section: Licensing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div style="clear:both; margin:0.5em auto; background-color:#eee; border:2px solid #ddd; padding:8px; direction: ltr;" class="licensetpl_wrapper">
+<div class="center" style="font-weight:bold;"><div lang="en" dir="ltr" class="description en" style="display:inline;">I, the copyright holder of this work, hereby publish it under the following license:</div></div>
+<table style="width:100%; clear:both; text-align:center; margin:0.5em auto; background-color:#f9f9f9; border:2px solid #e0e0e0; padding: 0; border-spacing: 8px;" class="layouttemplate licensetpl mw-content-ltr" lang="en">
+<tbody><tr>
+<td style="width:90px;" rowspan="3"><img alt="w:en:Creative Commons" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/90px-CC_some_rights_reserved.svg.png" decoding="async" title="w:en:Creative Commons" width="90" height="36" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/135px-CC_some_rights_reserved.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/180px-CC_some_rights_reserved.svg.png 2x" data-file-width="744" data-file-height="300" /><br />
+<p><img alt="attribution" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/24px-Cc-by_new_white.svg.png" decoding="async" title="attribution" width="24" height="24" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/36px-Cc-by_new_white.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/48px-Cc-by_new_white.svg.png 2x" data-file-width="64" data-file-height="64" /> <img alt="share alike" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/24px-Cc-sa_white.svg.png" decoding="async" title="share alike" width="24" height="24" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/36px-Cc-sa_white.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/48px-Cc-sa_white.svg.png 2x" data-file-width="64" data-file-height="64" />
+</p>
+</td>
+<td lang="en">This file is licensed under the <a href="https://en.wikipedia.org/wiki/en:Creative_Commons" class="extiw" title="w:en:Creative Commons">Creative Commons</a> <a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">Attribution-Share Alike 4.0 International</a> license.
+</td>
+<td style="width:90px;" rowspan="3">
+</td></tr>
+<tr style="text-align:center;">
+<td style="font-weight:bold;">
+</td></tr>
+<tr style="text-align:left;" lang="en">
+<td>
+<dl><dd>You are free:
+<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>
+<li><b>to remix</b> – to adapt the work</li></ul></dd>
+<dd>Under the following conditions:
+<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>
+<li><b>share alike</b> – If you remix, transform, or build upon the material, you must distribute your contributions under the <a rel="nofollow" class="external text" href="https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses">same or compatible license</a> as the original.</li></ul></dd></dl>
+<p><span class="licensetpl_link" style="display:none;">https://creativecommons.org/licenses/by-sa/4.0
+</span><span class="licensetpl_short" style="display:none;">CC BY-SA 4.0 
+</span><span class="licensetpl_long" style="display:none;">Creative Commons Attribution-Share Alike 4.0 
+</span><span class="licensetpl_link_req" style="display:none;">true</span><span class="licensetpl_attr_req" style="display:none;">true</span>
+</p>
+</td></tr></tbody></table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw2331
+Cached time: 20210822185824
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.118 seconds
+Real time usage: 0.175 seconds
+Preprocessor visited node count: 931/1000000
+Post‐expand include size: 14863/2097152 bytes
+Template argument size: 672/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 8/5000000 bytes
+Lua time usage: 0.032/10.000 seconds
+Lua memory usage: 1255123/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  152.580      1 -total
+ 52.43%   80.004      1 Template:Information
+ 28.98%   44.213      1 Template:Self
+ 18.40%   28.071      1 Template:ValidSVG
+ 17.93%   27.364      1 Template:Cc-by-sa-4.0
+ 11.99%   18.288      1 Template:Cc-by-sa-layout
+  8.48%   12.933      1 Template:En
+  8.39%   12.795      1 Template:Derivative
+  7.70%   11.748      1 Template:Autotranslate
+  6.87%   10.478      1 Template:Description
+-->
+
+<!-- Saved in parser cache with key commonswiki:pcache:idhash:35142030-0!wb=3 and timestamp 20210822185824 and revision id 562915329. Serialized with JSON.
+ -->
+</div></div><h2 id="filehistory">File history</h2>
+<div id="mw-imagepage-section-filehistory">
+<p>Click on a date/time to view the file as it appeared at that time.
+</p>
+<table class="wikitable filehistory">
+<tr><th></th><th>Date/Time</th><th>Thumbnail</th><th>Dimensions</th><th>User</th><th>Comment</th></tr>
+<tr><td>current</td><td class='filehistory-selected' style='white-space: nowrap;'><a href="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg">16:26, 4 September 2014</a></td><td><a href="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg"><img alt="Thumbnail for version as of 16:26, 4 September 2014" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/120px-Npm-logo.svg.png" decoding="async" width="120" height="47" data-file-width="540" data-file-height="210" /></a></td><td>540 × 210 <span style="white-space: nowrap;">(631 bytes)</span></td><td><a href="/w/index.php?title=User:Boboss74&amp;action=edit&amp;redlink=1" class="new mw-userlink" title="User:Boboss74 (page does not exist)"><bdi>Boboss74</bdi></a><span style="white-space: nowrap;"> <span class="mw-usertoollinks">(<a href="/wiki/User_talk:Boboss74" class="mw-usertoollinks-talk" title="User talk:Boboss74">talk</a> | <a href="/wiki/Special:Contributions/Boboss74" class="mw-usertoollinks-contribs" title="Special:Contributions/Boboss74">contribs</a>)</span></span></td><td dir="ltr">User created page with UploadWizard</td></tr>
+</table>
+
+</div>
+<div class="mw-imagepage-upload-links"><p id="mw-imagepage-upload-disallowed">You cannot overwrite this file.</p></div><h2 id="filelinks">File usage on Commons</h2>
+<div id='mw-imagepage-section-linkstoimage'>
+<p>The following 2 pages use this file:
+</p><ul class="mw-imagepage-linkstoimage">
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:OgreBot/Uploads_by_new_users/2014_September_04_12:00" title="User:OgreBot/Uploads by new users/2014 September 04 12:00">User:OgreBot/Uploads by new users/2014 September 04 12:00</a></li>
+<li class="mw-imagepage-linkstoimage-ns14"><a href="/wiki/Category:Node_Package_Manager" title="Category:Node Package Manager">Category:Node Package Manager</a></li>
+</ul>
+</div>
+<h2 id="globalusage">File usage on other wikis</h2>
+<div id="mw-imagepage-section-globalusage"><p>The following other wikis use this file:
+</p><ul>
+<li class='mw-gu-onwiki-ar_wikipedia_org'>Usage on ar.wikipedia.org
+<ul>	<li><a class="external" href="https://ar.wikipedia.org/wiki/Npm">Npm</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-bn_wikipedia_org'>Usage on bn.wikipedia.org
+<ul>	<li><a class="external" href="https://bn.wikipedia.org/wiki/%E0%A6%8F%E0%A6%A8%E0%A6%AA%E0%A6%BF%E0%A6%8F%E0%A6%AE_(%E0%A6%B8%E0%A6%AB%E0%A6%9F%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B0)">এনপিএম (সফটওয়্যার)</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-cs_wikipedia_org'>Usage on cs.wikipedia.org
+<ul>	<li><a class="external" href="https://cs.wikipedia.org/wiki/Npm">Npm</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-de_wikipedia_org'>Usage on de.wikipedia.org
+<ul>	<li><a class="external" href="https://de.wikipedia.org/wiki/Npm_(Software)">Npm (Software)</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-el_wiktionary_org'>Usage on el.wiktionary.org
+<ul>	<li><a class="external" href="https://el.wiktionary.org/wiki/npm">npm</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-en_wikipedia_org'>Usage on en.wikipedia.org
+<ul>	<li><a class="external" href="https://en.wikipedia.org/wiki/Npm_(software)">Npm (software)</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-es_wikipedia_org'>Usage on es.wikipedia.org
+<ul>	<li><a class="external" href="https://es.wikipedia.org/wiki/Npm">Npm</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-et_wikipedia_org'>Usage on et.wikipedia.org
+<ul>	<li><a class="external" href="https://et.wikipedia.org/wiki/Kasutaja:Michaelkrusey/Npm_(tarkvara)">Kasutaja:Michaelkrusey/Npm (tarkvara)</a></li>
+	<li><a class="external" href="https://et.wikipedia.org/wiki/Npm_(tarkvara)">Npm (tarkvara)</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-fa_wikipedia_org'>Usage on fa.wikipedia.org
+<ul>	<li><a class="external" href="https://fa.wikipedia.org/wiki/%D8%A7%D9%86%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%85">ان‌پی‌ام</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-fr_wikipedia_org'>Usage on fr.wikipedia.org
+<ul>	<li><a class="external" href="https://fr.wikipedia.org/wiki/Npm">Npm</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-id_wikipedia_org'>Usage on id.wikipedia.org
+<ul>	<li><a class="external" href="https://id.wikipedia.org/wiki/Npm_(perangkat_lunak)">Npm (perangkat lunak)</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-it_wikipedia_org'>Usage on it.wikipedia.org
+<ul>	<li><a class="external" href="https://it.wikipedia.org/wiki/Npm_(software)">Npm (software)</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-ja_wikipedia_org'>Usage on ja.wikipedia.org
+<ul>	<li><a class="external" href="https://ja.wikipedia.org/wiki/Npm_(%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E7%AE%A1%E7%90%86%E3%83%84%E3%83%BC%E3%83%AB)">Npm (パッケージ管理ツール)</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-ko_wikipedia_org'>Usage on ko.wikipedia.org
+<ul>	<li><a class="external" href="https://ko.wikipedia.org/wiki/Npm_(%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4)">Npm (소프트웨어)</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-ml_wikipedia_org'>Usage on ml.wikipedia.org
+<ul>	<li><a class="external" href="https://ml.wikipedia.org/wiki/%E0%B4%8E%E0%B5%BB%E0%B4%AA%E0%B4%BF%E0%B4%8E%E0%B4%82_(%E0%B4%B8%E0%B5%8B%E0%B4%AB%E0%B5%8D%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B5%8D%E0%B4%B5%E0%B5%86%E0%B4%AF%E0%B5%BC)">എൻപിഎം (സോഫ്റ്റ്വെയർ)</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-nl_wikipedia_org'>Usage on nl.wikipedia.org
+<ul>	<li><a class="external" href="https://nl.wikipedia.org/wiki/Npm_(software)">Npm (software)</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-pl_wikipedia_org'>Usage on pl.wikipedia.org
+<ul>	<li><a class="external" href="https://pl.wikipedia.org/wiki/Npm_(manager_pakiet%C3%B3w)">Npm (manager pakietów)</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-pt_wikipedia_org'>Usage on pt.wikipedia.org
+<ul>	<li><a class="external" href="https://pt.wikipedia.org/wiki/Npm_(software)">Npm (software)</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-ru_wikipedia_org'>Usage on ru.wikipedia.org
+<ul>	<li><a class="external" href="https://ru.wikipedia.org/wiki/Npm">Npm</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-sr_wikipedia_org'>Usage on sr.wikipedia.org
+<ul>	<li><a class="external" href="https://sr.wikipedia.org/wiki/Npm_(%D1%81%D0%BE%D1%84%D1%82%D0%B2%D0%B5%D1%80)">Npm (софтвер)</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-tr_wikipedia_org'>Usage on tr.wikipedia.org
+<ul>	<li><a class="external" href="https://tr.wikipedia.org/wiki/Npm">Npm</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-uk_wikipedia_org'>Usage on uk.wikipedia.org
+<ul>	<li><a class="external" href="https://uk.wikipedia.org/wiki/Npm">Npm</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-vi_wikipedia_org'>Usage on vi.wikipedia.org
+<ul>	<li><a class="external" href="https://vi.wikipedia.org/wiki/Npm_(ph%E1%BA%A7n_m%E1%BB%81m)">Npm (phần mềm)</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-www_wikidata_org'>Usage on www.wikidata.org
+<ul>	<li><a class="external" href="https://www.wikidata.org/wiki/Q7067518">Q7067518</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-zh_wikipedia_org'>Usage on zh.wikipedia.org
+<ul>	<li><a class="external" href="https://zh.wikipedia.org/wiki/Npm">Npm</a></li>
+</ul></li>
+</ul>
+</div><h2 id="metadata">Metadata</h2>
+<div class="mw-imagepage-section-metadata"><p>This file contains additional information such as Exif metadata which may have been added by the digital camera, scanner, or software program used to create or digitize it. If the file has been modified from its original state, some details such as the timestamp may not fully reflect those of the original file. The timestamp is only as accurate as the clock in the camera, and it may be completely wrong.</p><table id="mw_metadata" class="mw_metadata collapsed">
+<tbody><tr class="exif-imagewidth mw-metadata-collapsible"><th>Width</th><td>540px</td></tr><tr class="exif-imagelength mw-metadata-collapsible"><th>Height</th><td>210px</td></tr></tbody></table>
+</div><noscript><img src="//commons.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div><div role='tabpanel' id='ooui-php-5' class='wbmi-tab oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-scrollable oo-ui-tabPanelLayout' data-ooui='{"_":"OO.ui.TabPanelLayout","name":"statements","label":"Structured data","scrollable":true,"expanded":false,"classes":["wbmi-tab"]}'><h2 class="wbmi-structured-data-header">Structured data</h2><div id='P180' data-property='P180' data-statements='[{"mainsnak":{"snaktype":"value","property":"P180","datavalue":{"value":{"entity-type":"item","numeric-id":7067518,"id":"Q7067518"},"type":"wikibase-entityid"}},"type":"statement","id":"M35142030$9eca9176-576f-4b69-b045-a8824a147850","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P180","datavalue":{"value":{"entity-type":"item","numeric-id":1886349,"id":"Q1886349"},"type":"wikibase-entityid"}},"type":"statement","id":"M35142030$8fd82421-584d-46d3-9ec8-19897303d681","rank":"normal"}]' data-formatvalue='{"{\"value\":{\"entity-type\":\"property\",\"numeric-id\":180,\"id\":\"P180\"},\"type\":\"wikibase-entityid\"}":{"text\/html":{"en":{"":"&lt;a target=\"_blank\" title=\"d:Special:EntityPage\/P180\" href=\"https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P180\"&gt;depicts&lt;\/a&gt;"}},"text\/plain":{"en":{"":"depicts"}}},"{\"value\":{\"entity-type\":\"item\",\"numeric-id\":7067518,\"id\":\"Q7067518\"},\"type\":\"wikibase-entityid\"}":{"text\/html":{"en":{"P180":"&lt;a target=\"_blank\" title=\"d:Special:EntityPage\/Q7067518\" href=\"https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/Q7067518\"&gt;npm&lt;\/a&gt;"}},"text\/plain":{"en":{"P180":"npm"}}},"{\"value\":{\"entity-type\":\"item\",\"numeric-id\":1886349,\"id\":\"Q1886349\"},\"type\":\"wikibase-entityid\"}":{"text\/html":{"en":{"P180":"&lt;a target=\"_blank\" title=\"d:Special:EntityPage\/Q1886349\" href=\"https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/Q1886349\"&gt;logo&lt;\/a&gt;"}},"text\/plain":{"en":{"P180":"logo"}}}}' class='wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P180 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed'><div class='wbmi-statements-widget'><div class='wbmi-statement-header'><div class='wbmi-entity-data'><div class='wbmi-entity-title'><h3 class='wbmi-statements-title'>Items portrayed in this file</h3><h4 class='wbmi-entity-label'><bdi><a target="_blank" title="d:Special:EntityPage/P180" href="https://www.wikidata.org/wiki/Special:EntityPage/P180">depicts</a></bdi></h4></div></div></div><div class='wbmi-content-items-group'><div class='wbmi-item wbmi-item-read'><div data-guid='M35142030$9eca9176-576f-4b69-b045-a8824a147850' class='wbmi-item-container'><div class='wbmi-entity-header'><div class='wbmi-entity-data'><div class='wbmi-entity-title'><h4 class='wbmi-entity-label'><bdi><a target="_blank" title="d:Special:EntityPage/Q7067518" href="https://www.wikidata.org/wiki/Special:EntityPage/Q7067518">npm</a></bdi></h4></div></div></div></div></div><div class='wbmi-item wbmi-item-read'><div data-guid='M35142030$8fd82421-584d-46d3-9ec8-19897303d681' class='wbmi-item-container'><div class='wbmi-entity-header'><div class='wbmi-entity-data'><div class='wbmi-entity-title'><h4 class='wbmi-entity-label'><bdi><a target="_blank" title="d:Special:EntityPage/Q1886349" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1886349">logo</a></bdi></h4></div></div></div></div></div></div></div></div><div id='P170' data-property='P170' data-statements='[{"mainsnak":{"snaktype":"somevalue","property":"P170"},"type":"statement","qualifiers":{"P2699":[{"snaktype":"value","property":"P2699","hash":"da3428e006f9f65196b5412643d663296ba7e88d","datavalue":{"value":"https:\/\/commons.wikimedia.org\/wiki\/user:Boboss74","type":"string"}}],"P2093":[{"snaktype":"value","property":"P2093","hash":"3124bd35af9ee05f811ad7de1418a04ec19fd460","datavalue":{"value":"Boboss74","type":"string"}}],"P4174":[{"snaktype":"value","property":"P4174","hash":"a64901a09019dec20c9a5f67670cc7f7d325b58e","datavalue":{"value":"Boboss74","type":"string"}}]},"qualifiers-order":["P2699","P2093","P4174"],"id":"M35142030$D2D86F8F-94D3-4ADC-9527-66240D74BFFC","rank":"normal"}]' data-formatvalue='{"{\"value\":{\"entity-type\":\"property\",\"numeric-id\":170,\"id\":\"P170\"},\"type\":\"wikibase-entityid\"}":{"text\/html":{"en":{"":"&lt;a target=\"_blank\" title=\"d:Special:EntityPage\/P170\" href=\"https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P170\"&gt;creator&lt;\/a&gt;"}},"text\/plain":{"en":{"":"creator"}}},"{\"value\":{\"entity-type\":\"property\",\"numeric-id\":2699,\"id\":\"P2699\"},\"type\":\"wikibase-entityid\"}":{"text\/html":{"en":{"":"&lt;a target=\"_blank\" title=\"d:Special:EntityPage\/P2699\" href=\"https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P2699\"&gt;URL&lt;\/a&gt;"}},"text\/plain":{"en":{"":"URL"}}},"{\"value\":\"https:\\\/\\\/commons.wikimedia.org\\\/wiki\\\/user:Boboss74\",\"type\":\"string\"}":{"text\/html":{"en":{"P2699":"&lt;a target=\"_blank\" rel=\"nofollow\" class=\"external free\" href=\"https:\/\/commons.wikimedia.org\/wiki\/user:Boboss74\"&gt;https:\/\/commons.wikimedia.org\/wiki\/user:Boboss74&lt;\/a&gt;"}},"text\/plain":{"en":{"P2699":"https:\/\/commons.wikimedia.org\/wiki\/user:Boboss74"}}},"{\"value\":{\"entity-type\":\"property\",\"numeric-id\":2093,\"id\":\"P2093\"},\"type\":\"wikibase-entityid\"}":{"text\/html":{"en":{"":"&lt;a target=\"_blank\" title=\"d:Special:EntityPage\/P2093\" href=\"https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P2093\"&gt;author name string&lt;\/a&gt;"}},"text\/plain":{"en":{"":"author name string"}}},"{\"value\":\"Boboss74\",\"type\":\"string\"}":{"text\/html":{"en":{"P2093":"Boboss74","P4174":"&lt;a target=\"_blank\" class=\"wb-external-id external\" href=\"https:\/\/www.wikidata.org\/wiki\/Special:CentralAuth?target=Boboss74\" rel=\"nofollow\"&gt;Boboss74&lt;\/a&gt;"}},"text\/plain":{"en":{"P2093":"Boboss74","P4174":"Boboss74"}}},"{\"value\":{\"entity-type\":\"property\",\"numeric-id\":4174,\"id\":\"P4174\"},\"type\":\"wikibase-entityid\"}":{"text\/html":{"en":{"":"&lt;a target=\"_blank\" title=\"d:Special:EntityPage\/P4174\" href=\"https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P4174\"&gt;Wikimedia username&lt;\/a&gt;"}},"text\/plain":{"en":{"":"Wikimedia username"}}}}' class='wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P170 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed'><div class='wbmi-statements-widget'><div class='wbmi-statement-header'><div class='wbmi-entity-data'><div class='wbmi-entity-title'><h4 class='wbmi-entity-label'><bdi><a target="_blank" title="d:Special:EntityPage/P170" href="https://www.wikidata.org/wiki/Special:EntityPage/P170">creator</a></bdi></h4></div></div></div><div class='wbmi-content-items-group'><div class='wbmi-item wbmi-item-read'><div data-guid='M35142030$D2D86F8F-94D3-4ADC-9527-66240D74BFFC' class='wbmi-item-container'><div class='wbmi-entity-header'><div class='wbmi-entity-data'><div class='wbmi-entity-title'><h4 class='wbmi-entity-label'><bdi>some value</bdi></h4></div></div></div><div class='wbmi-item-content'><div class='wbmi-item-content-group'><div class='wbmi-qualifier'><div class='wbmi-qualifier-value'><a target="_blank" title="d:Special:EntityPage/P2699" href="https://www.wikidata.org/wiki/Special:EntityPage/P2699">URL</a><span class='wbmi-qualifier-value-separator'>: </span><span class='wbmi-qualifier-value--value'><a target="_blank" rel="nofollow" class="external free" href="https://commons.wikimedia.org/wiki/user:Boboss74">https://commons.wikimedia.org/wiki/user:Boboss74</a></span></div></div><div class='wbmi-qualifier'><div class='wbmi-qualifier-value'><a target="_blank" title="d:Special:EntityPage/P2093" href="https://www.wikidata.org/wiki/Special:EntityPage/P2093">author name string</a><span class='wbmi-qualifier-value-separator'>: </span><span class='wbmi-qualifier-value--value'>Boboss74</span></div></div><div class='wbmi-qualifier'><div class='wbmi-qualifier-value'><a target="_blank" title="d:Special:EntityPage/P4174" href="https://www.wikidata.org/wiki/Special:EntityPage/P4174">Wikimedia username</a><span class='wbmi-qualifier-value-separator'>: </span><span class='wbmi-qualifier-value--value'><a target="_blank" class="wb-external-id external" href="https://www.wikidata.org/wiki/Special:CentralAuth?target=Boboss74" rel="nofollow">Boboss74</a></span></div></div></div></div></div></div></div></div></div><div id='P6216' data-property='P6216' data-statements='[{"mainsnak":{"snaktype":"value","property":"P6216","datavalue":{"value":{"entity-type":"item","numeric-id":50423863,"id":"Q50423863"},"type":"wikibase-entityid"}},"type":"statement","id":"M35142030$E8E7D9F8-E994-4D45-A8B0-2A99B4D52511","rank":"normal"}]' data-formatvalue='{"{\"value\":{\"entity-type\":\"property\",\"numeric-id\":6216,\"id\":\"P6216\"},\"type\":\"wikibase-entityid\"}":{"text\/html":{"en":{"":"&lt;a target=\"_blank\" title=\"d:Special:EntityPage\/P6216\" href=\"https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P6216\"&gt;copyright status&lt;\/a&gt;"}},"text\/plain":{"en":{"":"copyright status"}}},"{\"value\":{\"entity-type\":\"item\",\"numeric-id\":50423863,\"id\":\"Q50423863\"},\"type\":\"wikibase-entityid\"}":{"text\/html":{"en":{"P6216":"&lt;a target=\"_blank\" title=\"d:Special:EntityPage\/Q50423863\" href=\"https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/Q50423863\"&gt;copyrighted&lt;\/a&gt;"}},"text\/plain":{"en":{"P6216":"copyrighted"}}}}' class='wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P6216 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed'><div class='wbmi-statements-widget'><div class='wbmi-statement-header'><div class='wbmi-entity-data'><div class='wbmi-entity-title'><h4 class='wbmi-entity-label'><bdi><a target="_blank" title="d:Special:EntityPage/P6216" href="https://www.wikidata.org/wiki/Special:EntityPage/P6216">copyright status</a></bdi></h4></div></div></div><div class='wbmi-content-items-group'><div class='wbmi-item wbmi-item-read'><div data-guid='M35142030$E8E7D9F8-E994-4D45-A8B0-2A99B4D52511' class='wbmi-item-container'><div class='wbmi-entity-header'><div class='wbmi-entity-data'><div class='wbmi-entity-title'><h4 class='wbmi-entity-label'><bdi><a target="_blank" title="d:Special:EntityPage/Q50423863" href="https://www.wikidata.org/wiki/Special:EntityPage/Q50423863">copyrighted</a></bdi></h4></div></div></div></div></div></div></div></div><div id='P275' data-property='P275' data-statements='[{"mainsnak":{"snaktype":"value","property":"P275","datavalue":{"value":{"entity-type":"item","numeric-id":18199165,"id":"Q18199165"},"type":"wikibase-entityid"}},"type":"statement","id":"M35142030$4230D453-6C0C-4E18-9B16-9698351F973F","rank":"normal"}]' data-formatvalue='{"{\"value\":{\"entity-type\":\"property\",\"numeric-id\":275,\"id\":\"P275\"},\"type\":\"wikibase-entityid\"}":{"text\/html":{"en":{"":"&lt;a target=\"_blank\" title=\"d:Special:EntityPage\/P275\" href=\"https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P275\"&gt;copyright license&lt;\/a&gt;"}},"text\/plain":{"en":{"":"copyright license"}}},"{\"value\":{\"entity-type\":\"item\",\"numeric-id\":18199165,\"id\":\"Q18199165\"},\"type\":\"wikibase-entityid\"}":{"text\/html":{"en":{"P275":"&lt;a target=\"_blank\" title=\"d:Special:EntityPage\/Q18199165\" href=\"https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/Q18199165\"&gt;Creative Commons Attribution-ShareAlike 4.0 International&lt;\/a&gt;"}},"text\/plain":{"en":{"P275":"Creative Commons Attribution-ShareAlike 4.0 International"}}}}' class='wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P275 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed'><div class='wbmi-statements-widget'><div class='wbmi-statement-header'><div class='wbmi-entity-data'><div class='wbmi-entity-title'><h4 class='wbmi-entity-label'><bdi><a target="_blank" title="d:Special:EntityPage/P275" href="https://www.wikidata.org/wiki/Special:EntityPage/P275">copyright license</a></bdi></h4></div></div></div><div class='wbmi-content-items-group'><div class='wbmi-item wbmi-item-read'><div data-guid='M35142030$4230D453-6C0C-4E18-9B16-9698351F973F' class='wbmi-item-container'><div class='wbmi-entity-header'><div class='wbmi-entity-data'><div class='wbmi-entity-title'><h4 class='wbmi-entity-label'><bdi><a target="_blank" title="d:Special:EntityPage/Q18199165" href="https://www.wikidata.org/wiki/Special:EntityPage/Q18199165">Creative Commons Attribution-ShareAlike 4.0 International</a></bdi></h4></div></div></div></div></div></div></div></div><div id='P571' data-property='P571' data-statements='[{"mainsnak":{"snaktype":"value","property":"P571","datavalue":{"value":{"time":"+2014-09-04T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"M35142030$963236FB-CCD0-40A3-8A99-24C230C38FF7","rank":"normal"}]' data-formatvalue='{"{\"value\":{\"entity-type\":\"property\",\"numeric-id\":571,\"id\":\"P571\"},\"type\":\"wikibase-entityid\"}":{"text\/html":{"en":{"":"&lt;a target=\"_blank\" title=\"d:Special:EntityPage\/P571\" href=\"https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P571\"&gt;inception&lt;\/a&gt;"}},"text\/plain":{"en":{"":"inception"}}},"{\"value\":{\"time\":\"+2014-09-04T00:00:00Z\",\"timezone\":0,\"before\":0,\"after\":0,\"precision\":11,\"calendarmodel\":\"http:\\\/\\\/www.wikidata.org\\\/entity\\\/Q1985727\"},\"type\":\"time\"}":{"text\/html":{"en":{"P571":"4 September 2014"}},"text\/plain":{"en":{"P571":"4 September 2014"}}}}' class='wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P571 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed'><div class='wbmi-statements-widget'><div class='wbmi-statement-header'><div class='wbmi-entity-data'><div class='wbmi-entity-title'><h4 class='wbmi-entity-label'><bdi><a target="_blank" title="d:Special:EntityPage/P571" href="https://www.wikidata.org/wiki/Special:EntityPage/P571">inception</a></bdi></h4></div></div></div><div class='wbmi-content-items-group'><div class='wbmi-item wbmi-item-read'><div data-guid='M35142030$963236FB-CCD0-40A3-8A99-24C230C38FF7' class='wbmi-item-container'><div class='wbmi-entity-header'><div class='wbmi-entity-data'><div class='wbmi-entity-title'><h4 class='wbmi-entity-label'><bdi>4 September 2014</bdi></h4></div></div></div></div></div></div></div></div></div></div></div></div></div>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://commons.wikimedia.org/w/index.php?title=File:Npm-logo.svg&amp;oldid=562915329">https://commons.wikimedia.org/w/index.php?title=File:Npm-logo.svg&amp;oldid=562915329</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Logos_associated_with_computing" title="Category:Logos associated with computing">Logos associated with computing</a></li><li><a href="/wiki/Category:Node_Package_Manager" title="Category:Node Package Manager">Node Package Manager</a></li><li><a href="/wiki/Category:8-bit_digital_art" title="Category:8-bit digital art">8-bit digital art</a></li><li><a href="/wiki/Category:Red_and_white_text_logos" title="Category:Red and white text logos">Red and white text logos</a></li><li><a href="/wiki/Category:Three_letter_combinations_including_N" title="Category:Three letter combinations including N">Three letter combinations including N</a></li><li><a href="/wiki/Category:Three_letter_combinations_including_P" title="Category:Three letter combinations including P">Three letter combinations including P</a></li><li><a href="/wiki/Category:Three_letter_combinations_including_M" title="Category:Three letter combinations including M">Three letter combinations including M</a></li><li><a href="/wiki/Category:White_on_red_logos" title="Category:White on red logos">White on red logos</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-user-shown">Hidden categories: <ul><li><a href="/wiki/Category:Valid_SVG" title="Category:Valid SVG">Valid SVG</a></li><li><a href="/wiki/Category:CC-BY-SA-4.0" title="Category:CC-BY-SA-4.0">CC-BY-SA-4.0</a></li><li><a href="/wiki/Category:Self-published_work" title="Category:Self-published work">Self-published work</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label" class="vector-menu-heading"><span>Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-uls" class="mw-list-item active"><a href="#" class="uls-trigger">English</a></li><li id="pt-anonuserpage" class="mw-list-item">Not logged in</li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=File%3ANpm-logo.svg" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=File%3ANpm-logo.svg" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label" class="vector-menu-heading"><span>Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-image" class="selected mw-list-item"><a href="/wiki/File:Npm-logo.svg" title="View the file page [c]" accesskey="c">File</a></li><li id="ca-talk" class="new mw-list-item"><a href="/w/index.php?title=File_talk:Npm-logo.svg&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+			<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label" class="vector-menu-heading"><span>Variants</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label" class="vector-menu-heading"><span>Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected mw-list-item"><a href="/wiki/File:Npm-logo.svg">View</a></li><li id="ca-edit" class="mw-list-item"><a href="/w/index.php?title=File:Npm-logo.svg&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=File:Npm-logo.svg&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li></ul>
+		
+	</div>
+</nav>
+
+			<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="More options"
+	 >
+	<input type="checkbox"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label" class="vector-menu-heading"><span>More</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			<div id="p-search" role="search" class="vector-search-box">
+	<div>
+		<h3 >
+			<label for="searchInput">Search</label>
+		</h3>
+		<form action="/w/index.php" id="searchform">
+			<div id="simpleSearch" data-search-loc="header-navigation">
+				<input type="search" name="search" placeholder="Search Wikimedia Commons" autocapitalize="sentences" title="Search Wikimedia Commons [f]" accesskey="f" id="searchInput"/>
+				<input type="hidden" name="title" value="Special:MediaSearch"/>
+				<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+				<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Main_Page"
+			title="Visit the main page"></a>
+	</div>
+	<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label" class="vector-menu-heading"><span>Navigate</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-welcome" class="mw-list-item"><a href="/wiki/Commons:Welcome">Welcome</a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Commons:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-village-pump" class="mw-list-item"><a href="/wiki/Commons:Village_pump">Village pump</a></li><li id="n-help" class="mw-list-item"><a href="/wiki/Special:MyLanguage/Help:Contents" title="The place to find out">Help center</a></li></ul>
+		
+	</div>
+</nav>
+
+	<nav id="p-participate" class="mw-portlet mw-portlet-participate vector-menu vector-menu-portal portal" aria-labelledby="p-participate-label" role="navigation" 
+	 >
+	<h3 id="p-participate-label" class="vector-menu-heading"><span>Participate</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-uploadbtn" class="mw-list-item"><a href="/wiki/Special:UploadWizard">Upload file</a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-latestfiles" class="mw-list-item"><a href="/wiki/Special:NewFiles">Latest files</a></li><li id="n-randomimage" class="mw-list-item"><a href="/wiki/Special:Random/File" title="Load a random file [x]" accesskey="x">Random file</a></li><li id="n-contact" class="mw-list-item"><a href="/wiki/Commons:Contact_us">Contact us</a></li></ul>
+		
+	</div>
+</nav>
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label" class="vector-menu-heading"><span>Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/File:Npm-logo.svg" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/File:Npm-logo.svg" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=File:Npm-logo.svg&amp;oldid=562915329" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=File:Npm-logo.svg&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wb-concept-uri" class="mw-list-item"><a href="https://commons.wikimedia.org/entity/M35142030" title="URI that identifies the concept described by this Item">Concept URI</a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=File%3ANpm-logo.svg&amp;id=562915329&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li></ul>
+		
+	</div>
+</nav>
+<nav id="p-electronpdfservice-sidebar-portlet-heading" class="mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading vector-menu vector-menu-portal portal" aria-labelledby="p-electronpdfservice-sidebar-portlet-heading-label" role="navigation" 
+	 >
+	<h3 id="p-electronpdfservice-sidebar-portlet-heading-label" class="vector-menu-heading"><span>Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="electron-print_pdf" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=File%3ANpm-logo.svg&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</nav>
+
+	
+</div>
+
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+	<li id="footer-info-lastmod"> This page was last edited on 22 May 2021, at 16:08.</li>
+	<li id="footer-info-copyright">Files are available under licenses specified on their description page. All structured data from the file and property namespaces is available under the <a href="https://creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">Creative Commons CC0 License</a>; all unstructured text is available under the <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Attribution-ShareAlike License</a>;
+additional terms may apply.
+By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Terms of Use</a> and the <a href="//foundation.wikimedia.org/wiki/Privacy_policy" title="Wikimedia Foundation Privacy Policy">Privacy Policy</a>.</li>
+</ul>
+
+	<ul id="footer-places" >
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Commons:Welcome" title="Commons:Welcome">About Wikimedia Commons</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Commons:General_disclaimer" title="Commons:General disclaimer">Disclaimers</a></li>
+	<li id="footer-places-mobileview"><a href="//commons.m.wikimedia.org/w/index.php?title=File:Npm-logo.svg&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/commons.wikimedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.118","walltime":"0.175","ppvisitednodes":{"value":931,"limit":1000000},"postexpandincludesize":{"value":14863,"limit":2097152},"templateargumentsize":{"value":672,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":8,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  152.580      1 -total"," 52.43%   80.004      1 Template:Information"," 28.98%   44.213      1 Template:Self"," 18.40%   28.071      1 Template:ValidSVG"," 17.93%   27.364      1 Template:Cc-by-sa-4.0"," 11.99%   18.288      1 Template:Cc-by-sa-layout","  8.48%   12.933      1 Template:En","  8.39%   12.795      1 Template:Derivative","  7.70%   11.748      1 Template:Autotranslate","  6.87%   10.478      1 Template:Description"]},"scribunto":{"limitreport-timeusage":{"value":"0.032","limit":"10.000"},"limitreport-memusage":{"value":1255123,"limit":52428800}},"cachereport":{"origin":"mw2331","timestamp":"20210822185824","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"ImageObject","contentUrl":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/db\/Npm-logo.svg","license":"https:\/\/creativecommons.org\/licenses\/by-sa\/4.0","acquireLicensePage":"\/\/commons.wikimedia.org\/wiki\/File:Npm-logo.svg","uploadDate":"2014-09-04 16:26:25"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":221,"wgHostname":"mw2325"});});</script>
+</body></html>
