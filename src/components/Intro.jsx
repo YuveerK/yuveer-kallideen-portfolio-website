@@ -11,7 +11,9 @@ function Intro() {
         </h1>
 
         <h1>
-          Aspiring<span className="roles"><Typewriter
+          Aspiring
+          <span className="roles">
+            <Typewriter
               options={{
                 strings: ["Software Developer", "Full Stack Developer"],
                 autoStart: true,
@@ -33,24 +35,33 @@ const IntroContainer = styled.div`
   flex-direction: column;
 
   .content-container {
-    max-width: 80%;
+    width: 80%;
     margin: auto;
     text-align: center;
+   
+    @media (max-width: 700px) {
+      width: 90%;
+    }
 
     .roles {
-        font-weight: 300;
-        span {
-                color: white;
-
-        }
+      font-weight: 300;
+      span {
+        color: white;
+      }
     }
   }
   h1 {
     font-size: 3rem;
+    @media (max-width: 700px) {
+      font-size: 2rem;
+    }
 
     span {
       font-size: 4rem;
       color: #362594;
+      @media (max-width: 700px) {
+        font-size: 2.5rem;
+      }
     }
   }
 `;

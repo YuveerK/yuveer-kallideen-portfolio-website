@@ -17,11 +17,11 @@ function Projects() {
                         <img src={covid} alt="" />
 
                         <div className="project-card-hover">
-                            <a href="https://github.com/YuveerK/covid-19-tracker" target="_blank">
+                            <a href="https://github.com/YuveerK/covid-19-tracker" target="_blank" rel="noreferrer">
                                 <i class="fab fa-github"></i>
                             </a>
 
-                            <a href="https://covid-19-tracker-za.netlify.app/" target="_blank">
+                            <a href="https://covid-19-tracker-za.netlify.app/" target="_blank" rel="noreferrer">
                                 <i class="fas fa-globe-africa"></i>
                             </a>
                         </div>
@@ -34,6 +34,13 @@ function Projects() {
 
                     <div className="project-description">
                         <p>A tracker which allows you to find COVID-19 and Vaccine statistics for any country in the world.</p>
+                    </div>
+
+                    <div className="project-technologies">
+                        <p>React</p>
+                        <p>Styled Components</p>
+                        <p>Netlify</p>
+                        
                     </div>
                 </div>
 
@@ -42,11 +49,11 @@ function Projects() {
                         <img src={microsoft} alt="" />
 
                         <div className="project-card-hover">
-                            <a href="https://github.com/YuveerK/covid-19-tracker" target="_blank">
+                            <a href="https://github.com/YuveerK/covid-19-tracker" target="_blank" rel="noreferrer"> 
                                 <i class="fab fa-github"></i>
                             </a>
 
-                            <a href="https://covid-19-tracker-za.netlify.app/" target="_blank">
+                            <a href="https://covid-19-tracker-za.netlify.app/" target="_blank" rel="noreferrer">
                                 <i class="fas fa-globe-africa"></i>
                             </a>
                         </div>
@@ -54,11 +61,17 @@ function Projects() {
                     </div>
 
                     <div className="project-title">
-                        <h3>COVID-19 Tracker</h3>
+                        <h3>Microsoft Clone</h3>
                     </div>
 
                     <div className="project-description">
-                        <p>A tracker which allows you to find COVID-19 and Vaccine statistics for any country in the world.</p>
+                        <p>Microsoft Website Clone</p>
+                    </div>
+
+                    <div className="project-technologies">
+                        <p>HTML</p>
+                        <p>CSS</p>
+                        <p>JavaScript</p>
                     </div>
                 </div>
 
@@ -67,11 +80,11 @@ function Projects() {
                         <img src={redapp} alt="" />
 
                         <div className="project-card-hover">
-                            <a href="https://github.com/YuveerK/covid-19-tracker" target="_blank">
+                            <a href="https://github.com/YuveerK/covid-19-tracker" target="_blank" rel="noreferrer">
                                 <i class="fab fa-github"></i>
                             </a>
 
-                            <a href="https://covid-19-tracker-za.netlify.app/" target="_blank">
+                            <a href="https://covid-19-tracker-za.netlify.app/" target="_blank" rel="noreferrer">
                                 <i class="fas fa-globe-africa"></i>
                             </a>
                         </div>
@@ -83,7 +96,15 @@ function Projects() {
                     </div>
 
                     <div className="project-description">
-                        <p>A tracker which allows you to find COVID-19 and Vaccine statistics for any country in the world.</p>
+                        <p>A tele-medicine application that aims to allow doctors to have virtual consultations with patients.</p>
+                    </div>
+
+                    <div className="project-technologies">
+                        <p>HTML</p>
+                        <p>CSS</p>
+                        <p>JavaScript</p>
+                        <p>PHP</p>
+                        <p>MySQL</p>
                     </div>
                 </div>
             </div>
@@ -116,6 +137,7 @@ const ProjectsContainer = styled.div`
             margin: 15px;
             background-color: #07002e;
             padding: 20px;
+            position: relative;
             
             .project-image {
                 width: 100%;
@@ -156,6 +178,26 @@ const ProjectsContainer = styled.div`
                     width: 100%;
                     height: 100%;
                     object-fit: cover;
+                }
+            }
+
+            .project-title {
+                margin: 20px 0;
+            }
+
+            .project-description {
+
+            }
+
+            .project-technologies {
+                display: flex;
+                flex-wrap: wrap;
+                position: absolute;
+                bottom: 20px;
+                p {
+                    margin: 5px 10px;
+                    background-color: #007bff;
+                    padding: 5px;
                 }
             }
         }

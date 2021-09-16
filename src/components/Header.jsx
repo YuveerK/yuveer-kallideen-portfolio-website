@@ -31,16 +31,16 @@ function Header() {
       </div>
 
       <div className="right">
-        <a href="https://www.facebook.com/yuveer.kallideen/" target="_blank">
+        <a href="https://www.facebook.com/yuveer.kallideen/" target="_blank" rel="noreferrer">
           <i class="fab fa-facebook-f"></i>
         </a>
-        <a href="https://twitter.com/UvKal_zA" target="_blank">
+        <a href="https://twitter.com/UvKal_zA" target="_blank" rel="noreferrer">
           <i class="fab fa-twitter"></i>
         </a>
-        <a href="https://www.instagram.com/uvkal_za/" target="_blank">
+        <a href="https://www.instagram.com/uvkal_za/" target="_blank" rel="noreferrer">
           <i class="fab fa-instagram"></i>
         </a>
-        <a href="https://github.com/YuveerK" target="_blank">
+        <a href="https://github.com/YuveerK" target="_blank" rel="noreferrer">
           <i class="fab fa-github"></i>
         </a>
       </div>
