@@ -1,98 +1,99 @@
-import React from 'react'
-import styled from 'styled-components'
-function EducationCard( {date, title, location, description, marks } ) {
-    return (
-        <EducationContainer>
-            <div className="left-side">
-                <div className="date">
-                    <p>
-                        {date}
-                    </p>
-                    <div className="middle"></div>
-                </div>
-            </div>
+import React from "react";
+import styled from "styled-components";
+function EducationCard({ date, title, location, description, marks }) {
+  return (
+    <EducationContainer>
+      <div className="left-side">
+        <div className="date">
+          <p>{date}</p>
+          <div className="middle"></div>
+        </div>
+      </div>
 
+      <div className="right-side">
+        <div className="title">
+          <h1>{title}</h1>
+        </div>
 
-            <div className="right-side">
-                <div className="title">
-                    <h1>{title}</h1>
-                </div>
+        <div className="location">
+          <h3>{location}</h3>
+        </div>
 
-                <div className="location">
-                    <h3>{location}</h3>
-                </div>
+        <div className="description">
+          <p>{description}</p>
 
-                <div className="description">
-                    <p>
-                        {description}
-                    </p>
-
-                    <p>
-                        {marks}
-                    </p>
-                </div>
-            </div>
-        </EducationContainer>
-    )
+          <p>{marks}</p>
+        </div>
+      </div>
+    </EducationContainer>
+  );
 }
 
-const EducationContainer = styled.div `
+const EducationContainer = styled.div`
+  display: flex;
+  position: relative;
+  width: 100%;
+  border-left: 2px solid black;
 
-        display: flex;
-        position: relative;
-        width: 100%;
-        border-left: 2px solid rgba(255,255,255,0.2);
+  .left-side {
+    width: 30%;
+    display: flex;
 
-        .left-side {
-            width: 30%;
-            display: flex;
+    .date {
+      width: 100%;
+      height: fit-content;
+      display: flex;
+      align-items: center;
+      justify-content: space-evenly;
+      padding: 10px;
+      position: relative;
+      margin-left: 15px;
+      p {
+        color: black;
+      }
 
-            .date {
-                width: 100%;
-                height: fit-content;
-                display: flex;
-                align-items: center;
-                justify-content: space-evenly;
-                padding: 10px;
-                position: relative;
-                margin-left: 15px;
+      .middle {
+        width: 50%;
+        height: 3px;
+        background-color: black;
+      }
+    }
+  }
 
-                .middle {
-                    width: 50%;
-                    height: 3px;
-                    background-color: rgba(255,255,255,0.2);
-                }              
-            }            
-        }
+  .right-side {
+    width: 95%;
+    margin-bottom: 50px;
 
-        .right-side {
-            width: 95%;
-            margin-bottom: 50px;
+    .title {
+      h1 {
+        color: #007bff;
+      }
+    }
 
-            .title {
-                h1 {
-                    color: #007bff;
-                }
-            }
+    .description {
+      p {
+        color: black;
+      }
+    }
 
-            .description {
-                    p {
-                    color: rgba(255,255,255,0.4);
-                    }
-                }
-        }        
-        &::before {
-                    content: "";
-                    position: absolute;
-                    width: 20px;
-                    height: 20px;
-                    background-color: #07002e;
-                    left: 0;
-                    top:10px;
-                    transform: translateX(-50%);
-                    border-radius: 50vw;
-                    border: 1px solid lightgray;
-                }        
+    .location {
+      h3 {
+        color: lightgray;
+      }
+    }
+  }
+  &::before {
+    content: "";
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-color: #07002e;
+    left: 0;
+    top: 10px;
+    transform: translateX(-50%);
+    border-radius: 50vw;
+    border: 1px solid lightgray;
+  }
 `;
 
-export default EducationCard
+export default EducationCard;

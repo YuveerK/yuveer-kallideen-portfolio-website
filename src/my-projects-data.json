@@ -1,0 +1,40 @@
+[
+    {
+        "image": "../img/microsoft-clone.PNG",
+        "github": "https://github.com/YuveerK/covid-19-tracker",
+        "website": "https://covid-19-tracker-za.netlify.app/",
+        "project_title": "Microsoft Clone",
+        "project_description": "Microsoft Clone",
+        "technologies": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ]
+    },
+
+    {
+        "image": "../img/covid-project.PNG",
+        "github": "https://github.com/YuveerK/covid-19-tracker",
+        "website": "https://covid-19-tracker-za.netlify.app/",
+        "project_title": "COVID-19 Tracker",
+        "project_description": "A tracker which allows you to find COVID-19 and Vaccine statistics for any country in the world.",
+        "technologies": [
+            "React",
+            "Styled Components",
+            "Netlify"
+        ]
+    },
+    
+    {
+        "image": "../img/redapp.PNG",
+        "github": "https://github.com/YuveerK/covid-19-tracker",
+        "website": "https://covid-19-tracker-za.netlify.app/",
+        "project_title": "COVID-19 Tracker",
+        "project_description": "A tracker which allows you to find COVID-19 and Vaccine statistics for any country in the world.",
+        "technologies": [
+            "React",
+            "Styled Components",
+            "Netlify"
+        ]
+    },
+]

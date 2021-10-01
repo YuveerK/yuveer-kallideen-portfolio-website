@@ -7,7 +7,7 @@ function Intro() {
     <IntroContainer>
       <div className="content-container">
         <h1>
-          Hi, I'm <span>Yuveer Kallideen</span>{" "}
+          Hi 🖐, I'm <span>Yuveer Kallideen</span>
         </h1>
 
         <h1>
@@ -38,7 +38,7 @@ const IntroContainer = styled.div`
     width: 80%;
     margin: auto;
     text-align: center;
-   
+
     @media (max-width: 700px) {
       width: 90%;
     }
@@ -46,12 +46,13 @@ const IntroContainer = styled.div`
     .roles {
       font-weight: 300;
       span {
-        color: white;
+        color: black;
       }
     }
   }
   h1 {
     font-size: 3rem;
+    color: black;
     @media (max-width: 700px) {
       font-size: 2rem;
     }

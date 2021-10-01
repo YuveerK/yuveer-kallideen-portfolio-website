@@ -31,13 +31,21 @@ function Header() {
       </div>
 
       <div className="right">
-        <a href="https://www.facebook.com/yuveer.kallideen/" target="_blank" rel="noreferrer">
+        <a
+          href="https://www.facebook.com/yuveer.kallideen/"
+          target="_blank"
+          rel="noreferrer"
+        >
           <i class="fab fa-facebook-f"></i>
         </a>
         <a href="https://twitter.com/UvKal_zA" target="_blank" rel="noreferrer">
           <i class="fab fa-twitter"></i>
         </a>
-        <a href="https://www.instagram.com/uvkal_za/" target="_blank" rel="noreferrer">
+        <a
+          href="https://www.instagram.com/uvkal_za/"
+          target="_blank"
+          rel="noreferrer"
+        >
           <i class="fab fa-instagram"></i>
         </a>
         <a href="https://github.com/YuveerK" target="_blank" rel="noreferrer">
@@ -110,7 +118,7 @@ const HeaderContainer = styled.div`
       height: 100%;
       background-color: #251c55;
       display: flex;
-      align-items: center;
+
       justify-content: center;
       overflow-y: scroll;
 
@@ -126,7 +134,7 @@ const HeaderContainer = styled.div`
   }
 
   .side-menu.open {
-      right: 0;
+    right: 0;
   }
   .left {
   }
@@ -170,7 +178,7 @@ const HeaderContainer = styled.div`
 
   .hamburger {
     @media (max-width: 700px) {
-        display: flex;
+      display: flex;
     }
     width: 32px;
     height: 25px;
