@@ -5,7 +5,7 @@ import Typewriter from "typewriter-effect";
 function Intro() {
   return (
     <IntroContainer>
-      <div className="content-container">
+      <div className="content-container" id="intro">
         <h1>
           Hi 🖐, I'm <span>Yuveer Kallideen</span>
         </h1>
@@ -47,6 +47,12 @@ const IntroContainer = styled.div`
       font-weight: 300;
       span {
         color: black;
+      }
+
+      @media (max-width: 700px) {
+        span {
+          font-size: 30px;
+        }
       }
     }
   }

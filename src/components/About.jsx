@@ -35,7 +35,9 @@ function About() {
             <Field title="Driver's License" description=": Code 8" />
           </div>
           <div className="button">
-            <a href="#">Download Resume</a>
+            <a href="/cv.pdf" download>
+              Download Resume
+            </a>
           </div>
         </div>
       </div>
@@ -48,7 +50,6 @@ const AboutContainer = styled.div`
   height: fit-content;
   margin-bottom: 60px;
   padding: 20px;
-  background-color: white;
 
   .content-container {
     display: flex;
@@ -57,7 +58,6 @@ const AboutContainer = styled.div`
     width: 100%;
     height: fit-content;
     margin-top: 50px;
-    padding: 20px;
 
     @media (max-width: 1180px) {
       flex-direction: column;
@@ -69,7 +69,7 @@ const AboutContainer = styled.div`
       width: 40%;
       height: 600px;
       border: 8px solid #07002e;
-      background-color: blue;
+      background-color: yellow;
       @media (max-width: 1180px) {
         width: auto;
       }

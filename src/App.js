@@ -9,6 +9,7 @@ import Projects from "./components/Projects";
 import TechStack from "./components/TechStack";
 
 import StarfieldAnimation from "react-starfield-animation";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
       <Resume />
       <Projects />
       <TechStack />
+      <Footer />
     </AppContainer>
   );
 }

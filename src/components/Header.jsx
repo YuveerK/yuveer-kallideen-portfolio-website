@@ -69,7 +69,7 @@ function Header() {
       >
         <div className="side-container">
           <ul>
-            <a href="#home">
+            <a href="#intro">
               <li>Home</li>
             </a>
             <a href="#about">

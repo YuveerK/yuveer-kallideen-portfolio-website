@@ -5,6 +5,7 @@ function Title({ title, id }) {
     <TitleContainer>
       <div className="title-content-container" id={id}>
         <h1>{title}</h1>
+        <div className="underline"></div>
       </div>
     </TitleContainer>
   );
@@ -16,7 +17,18 @@ const TitleContainer = styled.div`
   align-items: center;
   .title-content-container {
     display: flex;
-    align-items: center;
+    flex-direction: column;
+    .underline {
+      width: 40%;
+      height: 5px;
+      border-radius: 50vw;
+      background: rgb(0, 123, 255);
+      background: radial-gradient(
+        circle,
+        rgba(0, 123, 255, 1) 40%,
+        rgba(7, 0, 46, 1) 100%
+      );
+    }
 
     h1 {
       font-size: 3rem;

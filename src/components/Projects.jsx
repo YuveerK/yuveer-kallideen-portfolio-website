@@ -1,10 +1,10 @@
 import React from "react";
 import styled from "styled-components";
 import Title from "./page components/Title";
-import covid from "../img/covid-project.PNG";
-import microsoft from "../img/microsoft-clone.PNG";
+import covid from "../img/covid.jpg";
+import microsoft from "../img/ms.jpg";
 import redapp from "../img/redapp.PNG";
-
+import mars from "../img/mars.jpg";
 function Projects() {
   return (
     <ProjectsContainer>
@@ -132,6 +132,45 @@ function Projects() {
             <p>MySQL</p>
           </div>
         </div>
+
+        <div className="project-card">
+          <div className="project-image">
+            <img src={mars} alt="" />
+
+            <div className="project-card-hover">
+              <a
+                href="https://github.com/YuveerK/covid-19-tracker"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <i class="fab fa-github"></i>
+              </a>
+
+              <a
+                href="https://covid-19-tracker-za.netlify.app/"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <i class="fas fa-globe-africa"></i>
+              </a>
+            </div>
+          </div>
+
+          <div className="project-title">
+            <h3>Mars Explorer</h3>
+          </div>
+
+          <div className="project-description">
+            <p>
+              A mobile app for both iOS and Android that allows you to view
+              images captured from the rovers that are or have been on Mars
+            </p>
+          </div>
+
+          <div className="project-technologies">
+            <p>React Native</p>
+          </div>
+        </div>
       </div>
     </ProjectsContainer>
   );
@@ -162,6 +201,7 @@ const ProjectsContainer = styled.div`
       background-color: #07002e;
       padding: 20px;
       position: relative;
+      border-radius: 20px;
 
       .project-image {
         width: 100%;
@@ -199,6 +239,7 @@ const ProjectsContainer = styled.div`
         img {
           width: 100%;
           height: 100%;
+          border-radius: 20px;
           object-fit: cover;
         }
       }
