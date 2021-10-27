@@ -57,19 +57,11 @@ function Projects() {
             <img src={microsoft} alt="" />
 
             <div className="project-card-hover">
-              <a
-                href="https://github.com/YuveerK/covid-19-tracker"
-                target="_blank"
-                rel="noreferrer"
-              >
+              <a href="#" target="_blank" rel="noreferrer">
                 <i class="fab fa-github"></i>
               </a>
 
-              <a
-                href="https://covid-19-tracker-za.netlify.app/"
-                target="_blank"
-                rel="noreferrer"
-              >
+              <a href="#" target="_blank" rel="noreferrer">
                 <i class="fas fa-globe-africa"></i>
               </a>
             </div>
@@ -96,25 +88,17 @@ function Projects() {
 
             <div className="project-card-hover">
               <a
-                href="https://github.com/YuveerK/covid-19-tracker"
+                href="https://github.com/YuveerK/redapp-final-build"
                 target="_blank"
                 rel="noreferrer"
               >
                 <i class="fab fa-github"></i>
               </a>
-
-              <a
-                href="https://covid-19-tracker-za.netlify.app/"
-                target="_blank"
-                rel="noreferrer"
-              >
-                <i class="fas fa-globe-africa"></i>
-              </a>
             </div>
           </div>
 
           <div className="project-title">
-            <h3>COVID-19 Tracker</h3>
+            <h3>The Red App</h3>
           </div>
 
           <div className="project-description">
@@ -139,19 +123,11 @@ function Projects() {
 
             <div className="project-card-hover">
               <a
-                href="https://github.com/YuveerK/covid-19-tracker"
+                href="https://github.com/YuveerK/mars-explore"
                 target="_blank"
                 rel="noreferrer"
               >
                 <i class="fab fa-github"></i>
-              </a>
-
-              <a
-                href="https://covid-19-tracker-za.netlify.app/"
-                target="_blank"
-                rel="noreferrer"
-              >
-                <i class="fas fa-globe-africa"></i>
               </a>
             </div>
           </div>
