@@ -25,6 +25,9 @@ function Header() {
             <a href="#resume">resume</a>
           </li>
           <li>
+            <a href="#certifications">certifications</a>
+          </li>
+          <li>
             <a href="#projects">projects</a>
           </li>
         </ul>
@@ -80,6 +83,9 @@ function Header() {
             </a>
             <a href="#resume">
               <li>Resume</li>
+            </a>
+            <a href="#certifications">
+              <li>Certifications</li>
             </a>
             <a href="#projects">
               <li>My Projects</li>

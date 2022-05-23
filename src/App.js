@@ -10,6 +10,7 @@ import TechStack from "./components/TechStack";
 
 import StarfieldAnimation from "react-starfield-animation";
 import Footer from "./components/Footer";
+import Certifications from "./components/Certifications";
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
       <About />
       <Services />
       <Resume />
+      <Certifications />
       <Projects />
       <TechStack />
       <Footer />

@@ -33,7 +33,19 @@ function Resume() {
         <i class="fas fa-briefcase"></i>
         <h2>Work Experience</h2>
       </div>
-
+      <EducationCard
+        date="2022 - Present"
+        title="Junior Business Analyst - Signature Business Solutions"
+        location="Woodmead, Midrand - Gauteng"
+        description="
+                Reviewing annual budget for the complex. Ensuring there is enough capital within the budget to
+                complete maintenance requests for units in the complex. Review all decisions related to the budget or maintenance
+                before it can be approved along with the other trustee
+                members. Resolve any disputes amongst tenants. Make decisions regarding the infrastructure of the complex. Reviewing all work regarding maintenance or the
+                upgrade/installation of infrastructure at the complex
+                
+                "
+      />
       <EducationCard
         date="2017 - Present"
         title="Princeton Body Corporate - Trustee Member"
